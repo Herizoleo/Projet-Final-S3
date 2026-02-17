@@ -27,10 +27,6 @@ L'application empêche de distribuer une quantité supérieure au stock disponib
 
 ### Étapes d'installation
 
-1. **Cloner le projet**
-```bash
-cd d:\zozo
-```
 
 2. **Installer les dépendances**
 ```bash
@@ -120,6 +116,5 @@ zozo/
 5. **Distributions** (`/distributions`) - Gestion des distributions
 6. **Catégories** (`/categories`) - Liste des catégories et types d'articles
 
-## 📝 Licence
 
-Projet éducatif - BNGRC Madagascar
+Projet  - BNGRC Madagascar
